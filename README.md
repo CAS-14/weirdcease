@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CAS-14, also known as CAS or dynamite14
+- 👋 Hi, I’m @weirdcease, also known as CAS or dynamite14
 - 👀 I’m interested in coding, gaming, and creating music
-- 🌱 I’m currently learning javascript and better web development skills
+- 🌱 I’m currently learning about Flask and SQLite!
 
-<a href="https://www.act25.com" target="_blank">website</a><br>
+<a href="https://weirdcease.com" target="_blank">website</a><br>
