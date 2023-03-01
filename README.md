@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weirdcease, also known as CAS or dynamite14
+- 👋 Hi, my name is Charles, I go by @weirdcease online
 - 👀 I’m interested in coding, gaming, and creating music
 - 🌱 I’m currently learning about Flask and SQLite!
 
